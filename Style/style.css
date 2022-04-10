@@ -80,7 +80,7 @@ a {
   z-index: -2;
 }
 .main::before {
-  background-color: var(--Light_Violet);
+  background: linear-gradient(45deg, var(--Light_Violet), var(--Light_Magenta));
   top: 0;
   left: -50px;
   border-radius: 0 0 200px 200px;
